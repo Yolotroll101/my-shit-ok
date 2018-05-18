@@ -1,0 +1,1 @@
+worker: python Yolobot.py
